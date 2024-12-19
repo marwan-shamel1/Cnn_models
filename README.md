@@ -1,4 +1,4 @@
-Project Overview
+**Project Overview**
 This project involves training and evaluating three deep learning models (ResNet, Xception, and DenseNet) for multi-class image classification. The models are built and fine-tuned using the Keras and TensorFlow frameworks. The dataset, FaceScrub, contains images categorized by different classes. The goal is to achieve high accuracy in classifying images while comparing the performance of the three architectures.
 
 Steps Followed
@@ -28,5 +28,5 @@ Results and Analysis
 ResNet, Xception, and DenseNet were compared based on their validation accuracy and training efficiency.
 Each architecture showcased its strengths, with ResNet providing stability, Xception excelling in feature extraction, and DenseNet ensuring efficient computation.
 
-data set :
+**data set :**
 https://www.kaggle.com/datasets/rajnishe/facescrub-full
